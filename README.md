@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 I’m currently working on<br>Building a marketplace website like eBay 🌐<br><br>🤝 I’m looking to collaborate on<br>Web development projects (HTML/CSS/JavaScript),<br>Cybersecurity research<br><br>🙌 I’m looking for help with<br>Advanced web exploitation techniques 🕵️‍♂️,<br>Scaling full-stack projects 🚀<br><br>🌱 I’m currently learning<br>React.js framework for front-end development ⚛️,<br>Cyber-Physical Security concepts 🔒<br><br>💬 Ask me about<br>Python programming 🐍,<br>Blogging and content creation ✍️,<br>Cybersecurity basics and CTFs 🛡️
+🎯 I’m currently working on<br>Building a marketplace website 🌐<br><br>🤝 I’m looking to collaborate on<br>Web development projects (HTML/CSS/JavaScript),<br>Cybersecurity research<br><br>🙌 I’m looking for help with<br>Advanced web exploitation techniques 🕵️‍♂️,<br>Scaling full-stack projects 🚀<br><br>🌱 I’m currently learning<br>React.js framework for front-end development ⚛️,<br>Cyber-Physical Security concepts 🔒<br><br>💬 Ask me about<br>Python programming 🐍,<br>Blogging and content creation ✍️,<br>Cybersecurity basics and CTFs 🛡️
 
 
 ## 🌐 Socials:
